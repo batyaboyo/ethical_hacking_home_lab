@@ -1,2 +1,2 @@
-# RitualOS
-RitualOS Is a private mentor that ensures you grow daily, reflect honestly, and rebuild each week into a stronger version of yourself.
+# Ethical Hacking Home Lab
+Setting up an ethical hacking home lab involves creating an isolated, controlled virtual environment where you can legally and safely practice penetration testing skills. 
